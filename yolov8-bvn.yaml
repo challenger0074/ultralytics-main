@@ -16,11 +16,11 @@ test: test/images # test images (optional)
 
 # Classes
 names:
- 0: Cell
- 1: Cell-Multi
- 2: No-Anomal
- 3: Shadowing
- 4: Unclassified
+  0: Cell
+  1: Cell-Multi
+  2: No-Anomal
+  3: Shadowing
+  4: Unclassified
 
 # Download script/URL (optional)
 download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco8.zip
